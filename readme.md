@@ -23,17 +23,17 @@
 
 #### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,mongodb,mysql" />
 </p>
 
 #### 🔧 Developer Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,vscode,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,vscode,vercel" />
 </p>
 
 #### 🌟 Soft Skills
