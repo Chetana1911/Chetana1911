@@ -54,7 +54,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Jobify**](https://github.com/Chetana1911/JobTracker) | Job Management Platform with filtering, pagination & dashboard | MERN, Tailwind |
-| [**TaskVibe**](https://github.com/Chetana1911/TaskVibe) | Task Manager with advanced automation & productivity boost | MERN |
+| [**TaskVibe**](https://github.com/Chetana1911/TaskVibe) | Task Manager with advanced automation & productivity boost | HTML/CSS,JavaScript |
 | [**Node.js Authentication System**](https://github.com/Chetana1911/Nodejs_Authentication_System) | Secure JWT Authentication with bcrypt | Node.js, Express |
 | [**Tesla Stock ML**](https://github.com/Chetana1911/Tesla-Stock-ML) | Predict Tesla stock price using ML models & Streamlit | Python, ML |
 | [**Chat App**](https://github.com/Chetana1911/Chat-App) | Real-time chat with Socket.io | Node.js, Socket.io |
@@ -81,8 +81,7 @@
 ### 🎓 Education
 - 🎓 **M.Sc. Computer Science** – KBC NMU (2023–2025) – **CGPA: 9.36/10**  
 - 🎓 **B.Sc. Computer Science** – KBC NMU (2020–2023) – **CGPA: 9.72/10**  
-- 📘 Higher Secondary (HSC) – Kamla Neheru Girls High School – **58%**  
-- 📘 Secondary (SSC) – Eklavya High School – **79%**  
+
 
 ---
 
